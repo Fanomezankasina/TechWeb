@@ -23,3 +23,6 @@ git remote add origin https://github.com/Fanomezankasina/TechWeb.git
 git add .
 git commit -m "premier commit"
 git push -u origin master 
+
+# clone de projet
+git clone https://github.com/Fanomezankasina/TechWeb.git
